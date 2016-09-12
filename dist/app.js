@@ -1,3 +1,4 @@
 function App() {
-     console.log('This is a great app');
+     var message = 'This is a great app';
+     console.log(message);
 }
