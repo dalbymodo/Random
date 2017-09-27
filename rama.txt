@@ -1,3 +1,4 @@
+Version v0.0.2
 Un par de comentarios en la ramota.
 Y otros mas.
 Tercero y cuarto
